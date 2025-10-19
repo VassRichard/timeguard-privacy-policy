@@ -1,4 +1,5 @@
-Privacy Policy
+**Privacy Policy**
+
 This privacy policy applies to the Timeguard app (hereby referred to as "Application") for mobile devices that was created by Vass Richard (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 
